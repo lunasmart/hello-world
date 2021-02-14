@@ -1,13 +1,13 @@
 {
     "id": "B1C5654C",
-    "path": null,
-    "project_path": null,
-    "type": "r_source",
+    "path": "~/Desktop/helloworld.md/helloworld.md",
+    "project_path": "helloworld.md",
+    "type": "markdown",
     "hash": "2049911426",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1613292073159.0,
-    "source_on_save": true,
+    "source_on_save": false,
     "relative_order": 3,
     "properties": {
         "tempName": "Untitled1",
@@ -15,11 +15,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 101,
-    "encoding": "",
+    "lastKnownWriteTime": 1613292302,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1613292106313,
+    "last_content_update": 1613292302807,
     "read_only": false,
     "read_only_alternatives": []
 }
